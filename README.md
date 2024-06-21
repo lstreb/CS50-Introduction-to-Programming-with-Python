@@ -2,13 +2,18 @@
 
 ## Problem Set 0
 
-### 1. Indoor Voice
-  In this program, the user input will be returned all in lowercase.
-  
-### 2. Playback Speed
+## Problem Set 1
 
-### 3. Making Faces
+## Problem Set 2
 
-### 4. Einstein
+## Problem Set 3
 
-### 5. Tip Calculator
+## Problem Set 4
+
+## Problem Set 5
+
+## Problem Set 6
+
+## Problem Set 7
+
+## Problem Set 8
